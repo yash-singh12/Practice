@@ -1,4 +1,4 @@
-let name= document.getElementsByClassName("yash")
+ let name= document.getElementsByClassName("yash")
 let greeting= `hello ${name}`;
 
 let buttu= document.querySelector(".but");
